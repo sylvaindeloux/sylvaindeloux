@@ -1,6 +1,9 @@
-### Hi there, I'm Sylvain Deloux
+# Hi, I'm Sylvain
 
-![GitHub followers](https://img.shields.io/github/followers/sylvaindeloux?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/eaxfr?style=for-the-badge)
+### I'm a Freelance Senior Symfony Developer
 
-Senior PHP/Symfony freelance living in Paris, France.
+Available for worldwide assignments. Most of the time, I do remote work (from France and Japan), but I can easily travel for a few weeks on-site work.
+
+* [My website](https://www.sylvaindeloux.com)
+* [My Photographer Book](https://photo.sylvaindeloux.com) (NSFW)
+* [My LinkedIn Profile](https://www.linkedin.com/in/sylvaindeloux/)

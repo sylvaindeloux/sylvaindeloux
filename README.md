@@ -1,5 +1,7 @@
 # Hi, I'm Sylvain
 
-### I'm a Freelance Web Developer — Symfony certified
+### I'm a senior Web Developer — Symfony certified
 
-Available for worldwide assignments. Most of the time, I do remote work (from France and Japan), but I can easily travel for a few weeks on-site work.
+- ~20 years of experience with PHP
+- ~15 years of experience with Symfony
+- Used to web development, back and front, devops, SEO, scaling, hosting…
